@@ -1,0 +1,284 @@
+{"days":[
+    {
+        "date":"Friday, 8 June 2012",
+        "fixtures":[
+            {
+                "team1":"Poland",
+                "team2":"Greece",
+                "group":"GpA",
+                "time":"17:00"
+            },
+            {
+                "team1":"Russia",
+                "team2":"Czech Republic",
+                "group":"GpA",
+                "time":"19:45"
+            }
+        ]
+    },
+    {
+        "date":"Saturday, 9 June 2012",
+        "fixtures":[
+            {
+                "team1":"Netherlands",
+                "team2":"Denmark",
+                "group":"GpB",
+                "time":"17:00"
+            },
+            {
+                "team1":"Germany",
+                "team2":"Portugal",
+                "group":"GpB",
+                "time":"19:45"
+            }
+        ]
+    },
+    {
+        "date":"Sunday, 10 June 2012",
+        "fixtures":[
+            {
+                "team1":"Spain",
+                "team2":"Italy",
+                "group":"GpC",
+                "time":"17:00"
+            },
+            {
+                "team1":"Rep of Ireland",
+                "team2":"Croatia",
+                "group":"GpC",
+                "time":"19:45"
+            }
+        ]
+    },
+    {
+        "date":"Monday, 11 June 2012",
+        "fixtures":[
+            {
+                "team1":"France",
+                "team2":"England",
+                "group":"GpD",
+                "time":"17:00"
+            },
+            {
+                "team1":"Ukraine",
+                "team2":"Sweden",
+                "group":"GpD",
+                "time":"19:45"
+            }
+        ]
+    },
+    {
+        "date":"Tuesday, 12 June 2012",
+        "fixtures":[
+            {
+                "team1":"Greece",
+                "team2":"Czech Republic",
+                "group":"GpA",
+                "time":"17:00"
+            },
+            {
+                "team1":"Poland",
+                "team2":"Russia",
+                "group":"GpA",
+                "time":"19:45"
+            }
+        ]
+    },
+    {
+        "date":"Wednesday, 13 June 2012",
+        "fixtures":[
+            {
+                "team1":"Denmark",
+                "team2":"Portugal",
+                "group":"GpB",
+                "time":"17:00"
+            },
+            {
+                "team1":"Netherlands",
+                "team2":"Germany",
+                "group":"GpB",
+                "time":"19:45"
+            }
+        ]
+    },
+    {
+        "date":"Thursday, 14 June 2012",
+        "fixtures":[
+            {
+                "team1":"Italy",
+                "team2":"Croatia",
+                "group":"GpC",
+                "time":"17:00"
+            },
+            {
+                "team1":"Spain",
+                "team2":"Rep of Ireland",
+                "group":"GpC",
+                "time":"19:45"
+            }
+        ]
+    },
+    {
+        "date":"Friday, 15 June 2012",
+        "fixtures":[
+            {
+                "team1":"Ukraine",
+                "team2":"France",
+                "group":"GpD",
+                "time":"17:00"
+            },
+            {
+                "team1":"Sweden",
+                "team2":"England",
+                "group":"GpD",
+                "time":"19:45"
+            }
+        ]
+    },
+    {
+        "date":"Saturday, 16 June 2012",
+        "fixtures":[
+            {
+                "team1":"Czech Republic",
+                "team2":"Poland",
+                "group":"GpA",
+                "time":"19:45"
+            },
+            {
+                "team1":"Greece",
+                "team2":"Russia",
+                "group":"GpA",
+                "time":"19:45"
+            }
+        ]
+    },
+    {
+        "date":"Sunday, 17 June 2012",
+        "fixtures":[
+            {
+                "team1":"Denmark",
+                "team2":"Germany",
+                "group":"GpB",
+                "time":"19:45"
+            },
+            {
+                "team1":"Portugal",
+                "team2":"Netherlands",
+                "group":"GpB",
+                "time":"19:45"
+            }
+        ]
+    },
+    {
+        "date":"Monday, 18 June 2012",
+        "fixtures":[
+            {
+                "team1":"Croatia",
+                "team2":"Spain",
+                "group":"GpC",
+                "time":"19:45"
+            },
+            {
+                "team1":"Italy",
+                "team2":"Rep of Ireland",
+                "group":"GpC",
+                "time":"19:45"
+            }
+        ]
+    },
+    {
+        "date":"Tuesday, 19 June 2012",
+        "fixtures":[
+            {
+                "team1":"England",
+                "team2":"Ukraine",
+                "group":"GpD",
+                "time":"19:45"
+            },
+            {
+                "team1":"Sweden",
+                "team2":"France",
+                "group":"GpD",
+                "time":"19:45"
+            }
+        ]
+    },
+    {
+        "date":"Thursday, 21 June 2012",
+        "fixtures":[
+            {
+                "team1":"Winner Group A",
+                "team2":"Runner-up Group B",
+                "group":"QF",
+                "time":"19:45"
+            }
+        ]
+    },
+    {
+        "date":"Friday, 22 June 2012",
+        "fixtures":[
+            {
+                "team1":"Winner Group B",
+                "team2":"Runner-up Group A",
+                "group":"QF",
+                "time":"19:45"
+            }
+        ]
+    },
+    {
+        "date":"Saturday, 23 June 2012",
+        "fixtures":[
+            {
+                "team1":"Winner Group C",
+                "team2":"Runner-up Group D",
+                "group":"QF",
+                "time":"19:45"
+            }
+        ]
+    },
+    {
+        "date":"Sunday, 24 June 2012",
+        "fixtures":[
+            {
+                "team1":"Winner Group D",
+                "team2":"Runner-up Group C",
+                "group":"QF",
+                "time":"19:45"
+            }
+        ]
+    },
+    {
+        "date":"Wednesday, 27 June 2012",
+        "fixtures":[
+            {
+                "team1":"Winner Q/F 1",
+                "team2":"Winner Q/F 2",
+                "group":"SF",
+                "time":"19:45"
+            }
+        ]
+    },
+    {
+        "date":"Thursday, 28 June 2012",
+        "fixtures":[
+            {
+                "team1":"Winner Q/F 3",
+                "team2":"Winner Q/F 4",
+                "group":"SF",
+                "time":"19:45"
+            }
+        ]
+    },
+    {
+        "date":"Sunday, 1 July 2012",
+        "fixtures":[
+            {
+                "team1":"Winners SF1",
+                "team2":"Winners SF2",
+                "group":"F",
+                "time":"19:45"
+            }
+        ]
+    }
+]
+}
