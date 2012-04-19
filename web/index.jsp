@@ -14,20 +14,21 @@
 <h2>All matches</h2>
 
 <table>
-    <thead>
+    <tbody data-bind="foreach: items">
     <tr>
-        <th>Passenger name</th>
-        <th>Meal</th>
-        <th>Surcharge</th>
-        <th></th>
+        <td data-bind="text: date"></td>
     </tr>
-    </thead>
-    <tbody data-bind="foreach: seats">
     <tr>
-        <td data-bind="text: name"></td>
-        <td data-bind="text: meal().mealName"></td>
-        <td data-bind="text: meal().price"></td>
+        <td>
+            <ul data-bind="foreach: fixtures">
+                <li>
+                    <span data-bind="text: team1"></span> vs <span data-bind="text: team2"></span>
+                </li>
+            </ul>
+        </td>
+
     </tr>
+
     </tbody>
 </table>
 </body>

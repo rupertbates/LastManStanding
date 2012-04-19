@@ -1,17 +1,18 @@
-{"days":[
+{
+    "days":[
     {
         "date":"Friday, 8 June 2012",
         "fixtures":[
             {
                 "team1":"Poland",
                 "team2":"Greece",
-                "group":"GpA",
+                "group":"Group A",
                 "time":"17:00"
             },
             {
                 "team1":"Russia",
                 "team2":"Czech Republic",
-                "group":"GpA",
+                "group":"Group A",
                 "time":"19:45"
             }
         ]
@@ -22,13 +23,13 @@
             {
                 "team1":"Netherlands",
                 "team2":"Denmark",
-                "group":"GpB",
+                "group":"Group B",
                 "time":"17:00"
             },
             {
                 "team1":"Germany",
                 "team2":"Portugal",
-                "group":"GpB",
+                "group":"Group B",
                 "time":"19:45"
             }
         ]
@@ -39,13 +40,13 @@
             {
                 "team1":"Spain",
                 "team2":"Italy",
-                "group":"GpC",
+                "group":"Group C",
                 "time":"17:00"
             },
             {
                 "team1":"Rep of Ireland",
                 "team2":"Croatia",
-                "group":"GpC",
+                "group":"Group C",
                 "time":"19:45"
             }
         ]
@@ -56,13 +57,13 @@
             {
                 "team1":"France",
                 "team2":"England",
-                "group":"GpD",
+                "group":"Group D",
                 "time":"17:00"
             },
             {
                 "team1":"Ukraine",
                 "team2":"Sweden",
-                "group":"GpD",
+                "group":"Group D",
                 "time":"19:45"
             }
         ]
@@ -73,13 +74,13 @@
             {
                 "team1":"Greece",
                 "team2":"Czech Republic",
-                "group":"GpA",
+                "group":"Group A",
                 "time":"17:00"
             },
             {
                 "team1":"Poland",
                 "team2":"Russia",
-                "group":"GpA",
+                "group":"Group A",
                 "time":"19:45"
             }
         ]
@@ -90,13 +91,13 @@
             {
                 "team1":"Denmark",
                 "team2":"Portugal",
-                "group":"GpB",
+                "group":"Group B",
                 "time":"17:00"
             },
             {
                 "team1":"Netherlands",
                 "team2":"Germany",
-                "group":"GpB",
+                "group":"Group B",
                 "time":"19:45"
             }
         ]
@@ -107,13 +108,13 @@
             {
                 "team1":"Italy",
                 "team2":"Croatia",
-                "group":"GpC",
+                "group":"Group C",
                 "time":"17:00"
             },
             {
                 "team1":"Spain",
                 "team2":"Rep of Ireland",
-                "group":"GpC",
+                "group":"Group C",
                 "time":"19:45"
             }
         ]
@@ -124,13 +125,13 @@
             {
                 "team1":"Ukraine",
                 "team2":"France",
-                "group":"GpD",
+                "group":"Group D",
                 "time":"17:00"
             },
             {
                 "team1":"Sweden",
                 "team2":"England",
-                "group":"GpD",
+                "group":"Group D",
                 "time":"19:45"
             }
         ]
@@ -141,13 +142,13 @@
             {
                 "team1":"Czech Republic",
                 "team2":"Poland",
-                "group":"GpA",
+                "group":"Group A",
                 "time":"19:45"
             },
             {
                 "team1":"Greece",
                 "team2":"Russia",
-                "group":"GpA",
+                "group":"Group A",
                 "time":"19:45"
             }
         ]
@@ -158,13 +159,13 @@
             {
                 "team1":"Denmark",
                 "team2":"Germany",
-                "group":"GpB",
+                "group":"Group B",
                 "time":"19:45"
             },
             {
                 "team1":"Portugal",
                 "team2":"Netherlands",
-                "group":"GpB",
+                "group":"Group B",
                 "time":"19:45"
             }
         ]
@@ -175,13 +176,13 @@
             {
                 "team1":"Croatia",
                 "team2":"Spain",
-                "group":"GpC",
+                "group":"Group C",
                 "time":"19:45"
             },
             {
                 "team1":"Italy",
                 "team2":"Rep of Ireland",
-                "group":"GpC",
+                "group":"Group C",
                 "time":"19:45"
             }
         ]
@@ -192,13 +193,13 @@
             {
                 "team1":"England",
                 "team2":"Ukraine",
-                "group":"GpD",
+                "group":"Group D",
                 "time":"19:45"
             },
             {
                 "team1":"Sweden",
                 "team2":"France",
-                "group":"GpD",
+                "group":"Group D",
                 "time":"19:45"
             }
         ]
@@ -209,7 +210,7 @@
             {
                 "team1":"Winner Group A",
                 "team2":"Runner-up Group B",
-                "group":"QF",
+                "group":"Quarter final",
                 "time":"19:45"
             }
         ]
@@ -220,7 +221,7 @@
             {
                 "team1":"Winner Group B",
                 "team2":"Runner-up Group A",
-                "group":"QF",
+                "group":"Quarter final",
                 "time":"19:45"
             }
         ]
@@ -231,7 +232,7 @@
             {
                 "team1":"Winner Group C",
                 "team2":"Runner-up Group D",
-                "group":"QF",
+                "group":"Quarter final",
                 "time":"19:45"
             }
         ]
@@ -242,7 +243,7 @@
             {
                 "team1":"Winner Group D",
                 "team2":"Runner-up Group C",
-                "group":"QF",
+                "group":"Quarter final",
                 "time":"19:45"
             }
         ]
@@ -251,9 +252,9 @@
         "date":"Wednesday, 27 June 2012",
         "fixtures":[
             {
-                "team1":"Winner Q/F 1",
-                "team2":"Winner Q/F 2",
-                "group":"SF",
+                "team1":"Winner Quarter final 1",
+                "team2":"Winner Quarter final 2",
+                "group":"Semi final",
                 "time":"19:45"
             }
         ]
@@ -262,9 +263,9 @@
         "date":"Thursday, 28 June 2012",
         "fixtures":[
             {
-                "team1":"Winner Q/F 3",
-                "team2":"Winner Q/F 4",
-                "group":"SF",
+                "team1":"Winner Quarter final 3",
+                "team2":"Winner Quarter final 4",
+                "group":"Semi final",
                 "time":"19:45"
             }
         ]
@@ -273,9 +274,9 @@
         "date":"Sunday, 1 July 2012",
         "fixtures":[
             {
-                "team1":"Winners SF1",
-                "team2":"Winners SF2",
-                "group":"F",
+                "team1":"Winners Semi final 1",
+                "team2":"Winners Semi final 2",
+                "group":"Final",
                 "time":"19:45"
             }
         ]
